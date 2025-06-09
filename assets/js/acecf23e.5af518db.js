@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkema_frailty=self.webpackChunkema_frailty||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/EMA-Frailty/blog","blogTitle":"Blog","authorsListPath":"/EMA-Frailty/blog/authors"}')}}]);
