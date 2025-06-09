@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkema_frailty=self.webpackChunkema_frailty||[]).push([[1235],{8552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
